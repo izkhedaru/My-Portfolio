@@ -1,1 +1,1 @@
-I have linked my website and Pygame projects in this repository. For the game, if you would like to play it you will have to download the folder and launch the main.py file.
+I have linked my learning website and Pygame project in this repository. I will also be linking web projects with HTML/CSS/JS in this repository too. For the game, if you would like to play it you will have to download the folder and launch the main.py file.
